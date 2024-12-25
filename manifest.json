@@ -1,6 +1,6 @@
 {
     "name": "Wiki Plain Text",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "This extension only shows the plain text of the Wikipedia articles. Simple.",
     "manifest_version": 3,
     "icons": {

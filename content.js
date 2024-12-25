@@ -58,7 +58,7 @@ async function init() {
       let text = p.textContent;
       text = text.replace(/\(\.mw-parser-output.*?\)/g, "");
       text = text.replace(/\{.*?\}/g, "");
-      articleText += text + "\n\n";
+      articleText += text + "\n";
     });
     container.textContent = articleText;
     document.body.appendChild(container);
