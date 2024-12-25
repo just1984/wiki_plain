@@ -1,4 +1,4 @@
 # Wiki Plain Text
-## An extension that only shows the plain text of any Wikipedia article. Simple.
+### An extension that only shows the plain text of any Wikipedia article. Simple.
 
-## Simply head over here and "load unpacked". chrome://extensions/
+### Head over to 'chrome://extensions/' and "load unpacked". 
